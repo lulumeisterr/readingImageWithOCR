@@ -1,2 +1,0 @@
-# readingImageWithOCR
-readingImageWithOCR
